@@ -228,10 +228,14 @@ A full-stack application built to explore the communication between a web interf
   <img src="https://streak-stats.demolab.com?user=satishkumarpeddi&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub contribution streak" />
 </p>
 
-## Contribution Activity
+📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=satishkumarpeddi&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=satishkumarpeddi&bg_color=0d1117&color=58a6ff&line=1f6feb&point=f0f6fc&area=true&hide_border=true"
+    alt="Satish Kumar Peddi's GitHub contribution activity graph"
+    width="100%"
+  />
 </p>
 
 ---
